@@ -68,7 +68,7 @@ public class DayNote extends JFrame implements ActionListener{
     itm600.addActionListener(this);
     menTam.add(itm600);
 
-//Menu de Letras
+/* Menu de Letras
 
     cbTipo = new JComboBox();
     cbTam.setFont(new Font("Arial", 0, 10));
@@ -86,7 +86,7 @@ public class DayNote extends JFrame implements ActionListener{
     cbTam.addItem("14");
     cbTam.addItem("16");
     cbTam.addItem("18");
-    cbTam.addItem("20");
+    cbTam.addItem("20"); */
     
 //Area de notas
 
